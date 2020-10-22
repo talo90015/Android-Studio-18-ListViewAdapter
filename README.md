@@ -1,2 +1,2 @@
 # Android-Studio-18-ListViewAdapter
- This is the ListView Adapter loading and click display project
+ This is a RecyclerView exercise project, the APP can slide and delete the row to the left or right
